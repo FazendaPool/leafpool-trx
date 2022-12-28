@@ -35,7 +35,7 @@
 	"Privacy": "Secreto",
 	"PrivacyDesc": "No solo Leaf Pool es público y anónimo, tampoco solicitamos ni guardamos ninguna información privada. La única información que guardamos está estrictamente asociada con el procesamiento normal del Pool.",
 	"MinimalTaxes": "Impuestos Cero",
-	"MinimalTaxesDesc": "El impuesto a la piscina es del 0% hasta que alcancemos el tamaño deseado de 50 PiB o 50 bloques cultivados.",
+	"MinimalTaxesDesc": "El impuesto a la piscina es suficiente para cubrir los cuestos de mantenencia.",
 	"AutomaticPayments": "Pagos Automáticos",
 	"AutomaticPaymentsDesc": "Pagos automáticos diarios directamente a su billetera blockchain cuando alcanza la tarifa de transferencia mínima de",
 	"DiscordBotDesc": "Manténgase actualizado con los feeds en tiempo real de nuestro LeafBot sobre el mercado de Chia, los servidores de Pool y su propia granja.",
