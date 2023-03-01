@@ -194,9 +194,15 @@
 	"Announcements": "Najave",
 	"LastMonthsPayments": "Plaćanja zadnja 3 mjeseca",
 	"Terms": "Uvjeti",
-	"Details": "Details",
-	"Distributions": "Distributions",
-	"AverageEffort": "AverageEffort",
-	"Updated15minutes": "Updated15minutes",
-	"Plot": "Plot"
+	"Details": "Pojedinosti",
+	"Distributions": "Distribucije",
+	"AverageEffort": "Prosječni napor",
+	"Updated15minutes": "Ažurira se svakih 15 minuta",
+	"Plot": "Plot",
+	"Contribute": "Doprinesite",
+	"Rewards": "Nagrade",
+	"Round": "Runda",
+	"PoolOwner": "Vlasnik bazena",
+	"RoundMode": "Okrugli Način",
+	"Blocks": "Blokovi"
 }

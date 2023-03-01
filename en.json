@@ -315,6 +315,11 @@
 	"NoReferrals": "There are no Referrals to show",
 	"PoolMember": "Pool Member",
 	"Joined": "Joined",
-	"YourReferral": "YourReferral",
-	"Version": "Version"
+	"YourReferral": "Your Referral",
+	"Version": "Version",
+	"Contribute": "Contribute",
+	"Rewards": "Rewards",
+	"PoolOwner": "Pool Owner",
+	"Blocks": "Blocks",
+	"RoundMode": "Round Mode"
 }

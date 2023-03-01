@@ -314,5 +314,10 @@
 		"p4": "We only rely on browser cookies to provide some functionality related to the display theme, language and currency.",
 		"p5": "Our pool and web servers automatically log standard access information including ip address, browser type/client version, access times, URL requested, and referral URL. This information is not shared with third parties and is used only within this Pool on a need-to-know basis.",
 		"p6": "PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES."
-	}
+	},
+	"Contribute": "Contribuir",
+	"Rewards": "Recompensas",
+	"PoolOwner": "Dono da Pool",
+	"Blocks": "Blocos",
+	"RoundMode": "Modo da ronda"
 }
