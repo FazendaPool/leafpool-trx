@@ -234,7 +234,7 @@
 	"Never": "Nikada",
 	"dynamic": "dynamic",
 	"Region": "Regija",
-	"MinPayment": "MinPayment",
+	"MinPayment": "Minimalna uplata",
 	"ReferralInfo": "Ako nekome želite dati svoju preporuku, samo podijelite svoj ID pokretača s njima kako bi ga mogli dodati u svoje konfiguracije farme.",
 	"FarmConfig": "Farm Configuration",
 	"General": "General",
@@ -253,7 +253,7 @@
 	"RedundancyModeTooltip": "The Redundancy Mode is for farmers that are using multiple harvesters on the same plots for redundancy. This will ignore duplicated partials.",
 	"ReferralLauncherID": "Referral Launcher ID",
 	"ReferralNote": "Add your referral to get a fee discount! Note that you cannot make circular references",
-	"Cancel": "Cancel",
+	"Cancel": "Otkazati",
 	"DifficultyModeNote1": "please check",
 	"DifficultyModeLink": "our FAQ",
 	"DifficultyModeNote2": "for more details",
@@ -270,7 +270,8 @@
 	"FAQDifficultyModes": "What is the difficulty mode?",
 	"FAQDifficultyModesText1": "The difficulty mode allows a farmer to chose between different settings to tweak how the automatic difficulty works.\nThe following modes are available:",
 	"Partials": "Partials",
-	"Period": "Period",
+	"Period": "Razdoblje",
 	"FAQDifficultyModesText2": "The period influences 2 things, the frequency of the difficulty updates and also the period that is scanned",
-	"BlocksFound": "BlocksFound"
+	"BlocksFound": "Pronađeni blokovi",
+	"CheckPoolFeatures": "Naše osobine"
 }

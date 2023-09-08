@@ -388,5 +388,6 @@
 	"EfficiencyDropTooltip": "Get notified when your farm's efficiency drops below 90%",
 	"Otherfarmers": "Other farmers",
 	"QuickStartIntro2": "After joining the pool successfully, you can now login on your Farm Dashboard with your Launcher ID or use the plotNFT login link to setup your farm.",
-	"BlocksFound": "Blocks Found"
+	"BlocksFound": "Blocks Found",
+	"CheckPoolFeatures": "Check Pool Features"
 }

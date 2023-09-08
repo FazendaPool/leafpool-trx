@@ -385,5 +385,6 @@
 	"FarmedBlock": "Bloco Farmado",
 	"Payment": "Pagamento",
 	"DifficultyModeTooltip": "O modo padrão é dinâmico para todos os clientes, exceto gigahorse",
-	"BlocksFound": "Blocos Cultivados"
+	"BlocksFound": "Blocos Cultivados",
+	"CheckPoolFeatures": "As nossas funcionalidades"
 }
