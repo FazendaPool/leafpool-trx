@@ -389,5 +389,7 @@
 	"Otherfarmers": "Other farmers",
 	"QuickStartIntro2": "After joining the pool successfully, you can now login on your Farm Dashboard with your Launcher ID or use the plotNFT login link to setup your farm.",
 	"BlocksFound": "Blocks Found",
-	"CheckPoolFeatures": "Check Pool Features"
+	"CheckPoolFeatures": "Check Pool Features",
+	"InvalidClientVersionTitle": "Invalid Client Version",
+	"InvalidClientVersionText": "Please update your client as soon as possible because it's not supported by the pool."
 }

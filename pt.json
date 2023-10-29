@@ -386,5 +386,7 @@
 	"Payment": "Pagamento",
 	"DifficultyModeTooltip": "O modo padrão é dinâmico para todos os clientes, exceto gigahorse",
 	"BlocksFound": "Blocos Cultivados",
-	"CheckPoolFeatures": "As nossas funcionalidades"
+	"CheckPoolFeatures": "As nossas funcionalidades",
+	"InvalidClientVersionTitle": "Versão do cliente inválida",
+	"InvalidClientVersionText": "Atualize o seu cliente o mais rápido possível porque ele não é compatível com a pool."
 }

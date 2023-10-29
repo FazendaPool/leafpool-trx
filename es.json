@@ -273,5 +273,7 @@
 	"Period": "Período",
 	"FAQDifficultyModesText2": "El período influye en 2 cosas, la frecuencia de las actualizaciones de dificultad y también el período que se escanea.",
 	"BlocksFound": "Bloques cultivados",
-	"CheckPoolFeatures": "Nuestras caracteristicas"
+	"CheckPoolFeatures": "Nuestras caracteristicas",
+	"InvalidClientVersionTitle": "Versión de cliente no válida",
+	"InvalidClientVersionText": "Actualice su cliente lo antes posible porque el grupo no lo admite"
 }

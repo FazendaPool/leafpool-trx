@@ -273,5 +273,7 @@
 	"Period": "Razdoblje",
 	"FAQDifficultyModesText2": "The period influences 2 things, the frequency of the difficulty updates and also the period that is scanned",
 	"BlocksFound": "Pronađeni blokovi",
-	"CheckPoolFeatures": "Naše osobine"
+	"CheckPoolFeatures": "Naše osobine",
+	"InvalidClientVersionTitle": "Nevažeća verzija klijenta",
+	"InvalidClientVersionText": "Molimo ažurirajte svoj klijent što je prije moguće jer ga skup ne podržava."
 }
