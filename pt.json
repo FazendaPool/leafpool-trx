@@ -390,5 +390,6 @@
 	"BlocksFound": "Blocos Cultivados",
 	"CheckPoolFeatures": "As nossas funcionalidades",
 	"InvalidClientVersionTitle": "Versão do cliente inválida",
-	"InvalidClientVersionText": "Atualize o seu cliente o mais rápido possível porque ele não é compatível com a pool."
+	"InvalidClientVersionText": "Atualize o seu cliente o mais rápido possível porque ele não é compatível com a pool.",
+	"PoolAdmin": "Administrador da Pool"
 }

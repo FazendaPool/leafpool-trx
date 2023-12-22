@@ -277,5 +277,6 @@
 	"BlocksFound": "Pronađeni blokovi",
 	"CheckPoolFeatures": "Naše osobine",
 	"InvalidClientVersionTitle": "Nevažeća verzija klijenta",
-	"InvalidClientVersionText": "Molimo ažurirajte svoj klijent što je prije moguće jer ga skup ne podržava."
+	"InvalidClientVersionText": "Molimo ažurirajte svoj klijent što je prije moguće jer ga skup ne podržava.",
+	"PoolAdmin": "Pool Administrator"
 }

@@ -277,5 +277,6 @@
 	"BlocksFound": "Bloques cultivados",
 	"CheckPoolFeatures": "Nuestras caracteristicas",
 	"InvalidClientVersionTitle": "Versión de cliente no válida",
-	"InvalidClientVersionText": "Actualice su cliente lo antes posible porque el grupo no lo admite"
+	"InvalidClientVersionText": "Actualice su cliente lo antes posible porque el grupo no lo admite",
+	"PoolAdmin": "Pool Administrator"
 }

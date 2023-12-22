@@ -393,5 +393,6 @@
 	"BlocksFound": "Blocks Found",
 	"CheckPoolFeatures": "Check Pool Features",
 	"InvalidClientVersionTitle": "Invalid Client Version",
-	"InvalidClientVersionText": "Please update your client as soon as possible because it's not supported by the pool."
+	"InvalidClientVersionText": "Please update your client as soon as possible because it's not supported by the pool.",
+	"PoolAdmin": "Pool Administrator"
 }
