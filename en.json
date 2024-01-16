@@ -394,5 +394,9 @@
 	"CheckPoolFeatures": "Check Pool Features",
 	"InvalidClientVersionTitle": "Invalid Client Version",
 	"InvalidClientVersionText": "Please update your client as soon as possible because it's not supported by the pool.",
-	"PoolAdmin": "Pool Administrator"
+	"PoolAdmin": "Pool Administrator",
+	"Payed": "Payed",
+	"Harvester": "Harvester",
+	"OptionalTax": "Optional Fee (%)",
+	"OptionalTaxNote": "Consider adding an optional fee percentage, even if only temporarily, to support the pool project"
 }

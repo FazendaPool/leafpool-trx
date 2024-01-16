@@ -278,5 +278,10 @@
 	"CheckPoolFeatures": "Naše osobine",
 	"InvalidClientVersionTitle": "Nevažeća verzija klijenta",
 	"InvalidClientVersionText": "Molimo ažurirajte svoj klijent što je prije moguće jer ga skup ne podržava.",
-	"PoolAdmin": "Pool Administrator"
+	"PoolAdmin": "Pool Administrator",
+	"Harvester": "Harvester",
+	"Fee": "Pristojba",
+	"Payed": "Plaćeno",
+	"OptionalTax": "Izborni porez (%)",
+	"OptionalTaxNote": "Razmislite o dodavanju neobavezne naknade u postotku, čak i ako samo privremeno, za podršku projektu bazena"
 }

@@ -278,5 +278,11 @@
 	"CheckPoolFeatures": "Nuestras caracteristicas",
 	"InvalidClientVersionTitle": "Versión de cliente no válida",
 	"InvalidClientVersionText": "Actualice su cliente lo antes posible porque el grupo no lo admite",
-	"PoolAdmin": "Pool Administrator"
+	"PoolAdmin": "Pool Administrator",
+	"Harvester": "Harvester",
+	"Fee": "Tarifa",
+	"Payed": "Pagado",
+	"Otherfarmers": "Otros agricultores",
+	"OptionalTax": "Tarifa Opcional (%)",
+	"OptionalTaxNote": "Considere agregar una tarifa porcentual opcional, aunque sea temporalmente, para respaldar el proyecto de la pool."
 }

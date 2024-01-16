@@ -391,5 +391,9 @@
 	"CheckPoolFeatures": "As nossas funcionalidades",
 	"InvalidClientVersionTitle": "Versão do cliente inválida",
 	"InvalidClientVersionText": "Atualize o seu cliente o mais rápido possível porque ele não é compatível com a pool.",
-	"PoolAdmin": "Administrador da Pool"
+	"PoolAdmin": "Administrador da Pool",
+	"Payed": "Pago",
+	"Harvester": "Harvester",
+	"OptionalTax": "Taxa Opcional (%)",
+	"OptionalTaxNote": "Considere meter uma taxa opcional em percentagem nem que seja temporariamente para apoiar o projecto da pool"
 }
