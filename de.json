@@ -397,5 +397,9 @@
 	"Harvester": "Harvester",
 	"Payed": "Payed",
 	"OptionalTax": "Optionale Gebühr (%)",
-	"OptionalTaxNote": "Erwägen Sie die Erhebung einer optionalen prozentualen Gebühr, auch wenn diese nur vorübergehend ist, um das Poolprojekt zu unterstützen"
+	"OptionalTaxNote": "Erwägen Sie die Erhebung einer optionalen prozentualen Gebühr, auch wenn diese nur vorübergehend ist, um das Poolprojekt zu unterstützen",
+	"OptionalFees": "Optionale Gebühr",
+	"OptionalFeesDesc": "Standardmäßig 0 % Steuer. Sie entscheiden selbst, ob und wie viel Prozent Sie das Projekt unterstützen möchten.",
+	"Profitable": "Profitabel",
+	"ProfitableDesc": "Es sind die kleinen Dinge, die den Unterschied machen. Hier haben wir sie alle. Aus diesem Grund waren wir in der Vergangenheit einer der profitabelsten Chia-Pools aller Zeiten."
 }
