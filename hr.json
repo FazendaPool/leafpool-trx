@@ -101,7 +101,7 @@
 	"PointsTooltip": "Za svaki valjani proof koji pošaljete, dobivate bodove koji se kasnije pretvaraju u XCH. Kada se runda završi i svi blockovi su distribuirani, vaši bodovi se resetaju na nulu.",
 	"RoundDuration": "Trajanje Runde",
 	"Ratio": "Omjer",
-	"EstimatedWinningsRound": "Runda Procjenjenih Dobitaka",
+	"EstimatedWinningsRound": "Procjenjenih Dobitaka",
 	"EstimatedWinningsRoundTooltip": "Ova vrijednost se izračunava množenjem procijenjene količine pronađenih blockova s vašim omjerom",
 	"LastFarmedBlock": "Zadnji Izfarmani Block",
 	"PendingBalance": "Neriješeni Saldo",
@@ -288,5 +288,6 @@
 	"OptionalFeesDesc": "0% poreza prema zadanim postavkama. Vi sami odlučujete želite li podržati projekt i u kojem postotku.",
 	"Profitable": "Profitabilno",
 	"ProfitableDesc": "Male su stvari te koje čine razliku. Ovdje ih imamo sve. Zbog toga smo povijesno bili jedan od najprofitabilnijih Chia bazena ikada.",
-	"ChiaJumboTitleHalving": "Sljedeći Halving Chia"
+	"ChiaJumboTitleHalving": "Sljedeći Halving Chia",
+	"LastDistributions": "Zadnjih 30 dana distribucije"
 }

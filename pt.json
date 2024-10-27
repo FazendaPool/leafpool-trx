@@ -100,7 +100,7 @@
 	"PointsTooltip": "A cada prova válida que envia, vai somando pontos que depois são convertidos em XCH. Quando uma ronda acaba e todos os blocos são distribuídos, os seus pontos voltam a zero.",
 	"RoundDuration": "Duração Ronda",
 	"Ratio": "Rácio",
-	"EstimatedWinningsRound": "Est. Ganhos Ronda",
+	"EstimatedWinningsRound": "Est. Ganhos",
 	"EstimatedWinningsRoundTooltip": "Este valor é calculado pela quantidade estimada de blocos encontrados a multiplicar pelo seu rácio",
 	"LastFarmedBlock": "Últ. Bloco Farmado",
 	"PendingBalance": "Saldo Pendente",
@@ -400,5 +400,6 @@
 	"OptionalFeesDesc": "0% de taxa por padrão. Você é que decide se deseja apoiar o projeto e qual a percentagem.",
 	"Profitable": "Rentável",
 	"ProfitableDesc": "São as pequenas coisas que fazem a diferença. Aqui temos todos elas. É por isso que temos sido historicamente um dos pools de Chia mais lucrativos de sempre.",
-	"ChiaJumboTitleHalving": "Próximo Halving Chia"
+	"ChiaJumboTitleHalving": "Próximo Halving Chia",
+	"LastDistributions": "Distribuições últ. 30 dias"
 }
