@@ -401,5 +401,7 @@
 	"Profitable": "Rentável",
 	"ProfitableDesc": "São as pequenas coisas que fazem a diferença. Aqui temos todos elas. É por isso que temos sido historicamente um dos pools de Chia mais lucrativos de sempre.",
 	"ChiaJumboTitleHalving": "Próximo Halving Chia",
-	"LastDistributions": "Distribuições últ. 30 dias"
+	"LastDistributions": "Distribuições últ. 30 dias",
+	"EstimatedWinningsDay": "Ganhos Estimados Dia",
+	"EstimatedWinnings30Days": "Ganhos Estimados 30d"
 }

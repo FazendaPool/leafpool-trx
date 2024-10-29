@@ -290,5 +290,7 @@
 	"Profitable": "Rentable",
 	"ProfitableDesc": "Son las pequeñas cosas las que marcan la diferencia. Aquí las tenemos todas. Es por eso que históricamente hemos sido uno de los grupos de Chia más rentables de todos los tiempos.",
 	"ChiaJumboTitleHalving": "Próximo Halving Chia",
-	"LastDistributions": "Distribuciones de los últimos 30 días"
+	"LastDistributions": "Distribuciones de los últimos 30 días",
+	"EstimatedWinningsDay": "Estimated Earnings Day",
+	"EstimatedWinnings30Days": "Estimated Earnings 30 days"
 }

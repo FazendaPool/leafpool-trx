@@ -289,5 +289,7 @@
 	"Profitable": "Profitabilno",
 	"ProfitableDesc": "Male su stvari te koje čine razliku. Ovdje ih imamo sve. Zbog toga smo povijesno bili jedan od najprofitabilnijih Chia bazena ikada.",
 	"ChiaJumboTitleHalving": "Sljedeći Halving Chia",
-	"LastDistributions": "Zadnjih 30 dana distribucije"
+	"LastDistributions": "Zadnjih 30 dana distribucije",
+	"EstimatedWinningsDay": "Estimated Earnings Day",
+	"EstimatedWinnings30Days": "Estimated Earnings 30 days"
 }

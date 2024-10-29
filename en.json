@@ -101,7 +101,7 @@
 	"PointsTooltip": "For each valid proof you send, you add points that are later converted into XCH. When a round is over and all blocks are distributed, your points are reset to zero.",
 	"RoundDuration": "Round Duration",
 	"Ratio": "Ratio",
-	"EstimatedWinningsRound": "Estimated Earnings",
+	"EstimatedWinningsRound": "Estimated Earnings Block",
 	"EstimatedWinningsRoundTooltip": "This value is calculated by the estimated amount of blocks found multiplied by your ratio",
 	"LastFarmedBlock": "Last Farmed Block",
 	"PendingBalance": "Pending Balance",
@@ -404,5 +404,8 @@
 	"Profitable": "Profitable",
 	"ProfitableDesc": "It's the small things that make the difference. Here we have all of them. That's why we've been historically one of the most profitable Chia pools ever.",
 	"ChiaJumboTitleHalving": "Chia next Halving",
-	"LastDistributions": "Last 30 days Distributions"
+	"LastDistributions": "Last 30 days Distributions",
+	"EstimatedWinningsDay": "Estimated Earnings Day",
+	"EstimatedWinnings30Days": "Estimated Earnings 30 days",
+	"gigahorse": "gigahorse"
 }

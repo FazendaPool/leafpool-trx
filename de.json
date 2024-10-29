@@ -403,5 +403,7 @@
 	"Profitable": "Profitabel",
 	"ProfitableDesc": "Es sind die kleinen Dinge, die den Unterschied machen. Hier haben wir sie alle. Aus diesem Grund waren wir in der Vergangenheit einer der profitabelsten Chia-Pools aller Zeiten.",
 	"ChiaJumboTitleHalving": "Als nächstes Chia halbieren",
-	"LastDistributions": "Ausschüttungen der letzten 30 Tage"
+	"LastDistributions": "Ausschüttungen der letzten 30 Tage",
+	"EstimatedWinningsDay": "Estimated Earnings Day",
+	"EstimatedWinnings30Days": "Estimated Earnings 30 days"
 }
